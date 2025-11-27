@@ -92,6 +92,6 @@
     "int_ad_interval": {
         "type": null,
         "enable": null,
-        "skip_times": 40
+        "skip_times": 80
     }
 }
